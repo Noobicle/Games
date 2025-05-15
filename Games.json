@@ -3,10 +3,5 @@
   "name":"Rocket League",
   "exe": "RocketLeague.exe",
   "admin": false
-},
-{
-"name":"pull test",
-"exe":"nlah.exe",
-"admin":true
 }
 ]
